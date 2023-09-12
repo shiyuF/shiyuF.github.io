@@ -137,7 +137,7 @@
   "publications": [],
   "skills": [
     {
-      "summary": "C/C++, Python, MATLAB, LabVIEW, OpenCV, ROS, Gazebo, CasADi, PCL, Linux, GIT, Jira, PyTorch, TensorFlow, Weka, Solidwords, ProE, AutoDesk, ANSYS"
+      "name": "C/C++, Python, MATLAB, LabVIEW, OpenCV, ROS, Gazebo, CasADi, PCL, Linux, GIT, Jira, PyTorch, TensorFlow, Weka, Solidwords, ProE, AutoDesk, ANSYS"
     }
   ],
   "languages": [
