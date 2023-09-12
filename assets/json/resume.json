@@ -1,27 +1,39 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shiyu Feng",
+    "label": "Ph.D. Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://shiyuf.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "85 5th St NW",
+      "postalCode": "GA 30308",
+      "city": "Atlanta",
       "countryCode": "US",
-      "region": "California"
+      "region": "Georgia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "url": "",
+      "area": "Robotics and Mechanical Engineering",
+      "studyType": "PhD",
+      "startDate": "2016-08",
+      "endDate": "Expected 2024-05",
+      "score": "",
+      "advisor": [
+        "Dr. Patricio A. Vela",
+        "Dr. Jun Ueda"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -36,20 +48,6 @@
     }
   ],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
