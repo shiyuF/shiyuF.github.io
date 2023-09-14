@@ -4,7 +4,7 @@ title: Stixel Navigation
 description: Ego-centric Stereo Navigation Using Stixel World
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: research
 related_publications: 9561385
 ---
 
