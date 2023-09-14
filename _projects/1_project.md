@@ -2,7 +2,7 @@
 layout: page
 title: Stixel Navigation
 description: Ego-centric Stereo Navigation Using Stixel World
-img: assets/img/12.jpg
+img: assets/img/research/stixel_cc.gif
 importance: 1
 category: research
 related_publications: 9561385
@@ -22,6 +22,6 @@ Computational studies quantify the processing performance and demonstrate the fa
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/research/StixelNav_record.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="assets/video/research/StixelNav_record.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
