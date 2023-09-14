@@ -5,7 +5,7 @@ description: "GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Qu
 img: assets/img/research/quadNav_real.png
 importance: 4
 category: research
-related_publications: 
+related_publications: 10160804
 ---
 
 Safe quadrupedal navigation through unknown environments is a challenging problem. This project proposes a hierarchical vision-based planning framework (GPF-BG) integrating our previous Global Path Follower (GPF) navigation system and a gap-based local planner using B´ezier curves, so called Bezier Gap (BG). This BG-based trajectory synthesis can generate smooth trajectories and guarantee safety for pointmass robots. With a gap analysis extension based on non-point, rectangular geometry, safety is guaranteed for an idealized quadrupedal motion model and significantly improved for an actual quadrupedal robot model. Stabilized perception space improves performance under oscillatory internal body motions that impact sensing. Simulation-based and real experiments under different benchmarking configurations test safe navigation performance. GPF-BG has the best safety outcomes across all experiments.
