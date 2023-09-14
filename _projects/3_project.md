@@ -2,7 +2,7 @@
 layout: page
 title: Trajectory Servoing
 description: Image-Based Trajectory Tracking Through Unknown Environments Without Absolute Positioning
-img: 
+img: assets/img/research/trajservo.png
 importance: 3
 category: research
 related_publications: 9787773

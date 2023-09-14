@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Quadrupedal Navigation
+description: "GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation"
 img: assets/img/research/quadNav_real.png
 importance: 4
 category: research
