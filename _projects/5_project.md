@@ -3,11 +3,12 @@ layout: page
 title: Safer Gap
 description: "Safer Gap: A Gap-based Local Planner for Safe Navigation with Nonholonomic Mobile Robots"
 img: assets/img/research/safer_gap.png
-redirect: https://github.com/ivaROS/SaferGap
 importance: 5
 category: research
 related_publications: feng2023safer
 ---
+
+<a href="https://github.com/ivaROS/SaferGap"><b>GitHub Link</b></a>
 
 This project extends the gap-based navigation technique in Potential Gap by guaranteeing safety for nonholonomic robots for all tiers of the local planner hierarchy, so called Safer Gap. The first tier generates a Bezier-based collisionfree path through gaps. A subset of navigable free-space from the robot through a gap, called the keyhole, is defined to be the union of the largest collision-free disc centered on the robot and a trapezoidal region directed through the gap. It is encoded by a shallow neural network zeroing barrier function (ZBF). Nonlinear model predictive control (NMPC), with Keyhole ZBF constraints and output tracking of the Bezier path, synthesizes a safe kinematically-feasible trajectory. Lowlevel use of the Keyhole ZBF within a point-wise optimization-based safe control synthesis module serves as a final safety layer. Simulation and experimental validation of Safer Gap confirm its collision-free navigation properties.
 

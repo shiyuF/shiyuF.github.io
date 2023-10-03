@@ -3,11 +3,12 @@ layout: page
 title: Trajectory Servoing
 description: Image-Based Trajectory Tracking Through Unknown Environments Without Absolute Positioning.
 img: assets/img/research/trajservo.png
-redirect: https://github.com/ivaROS/TrajectoryServoing
 importance: 3
 category: research
 related_publications: 9787773
 ---
+
+<a href="https://github.com/ivaROS/TrajectoryServoing"><b>GitHub Link</b></a>
 
 This project describes a stereo image-based visual servoing (VS) system for trajectory tracking by a nonholonomic robot without externally derived pose information nor a known visual map of the environment. It is called trajectory servoing (TS). The critical component is a feature-based, indirect simultaneous localization and mapping (SLAM) method to provide a pool of available features with estimated depth, so that they may be propagated forward in time to generate image feature trajectories for VS. Short and long distance experiments show the benefits of TS for navigating unknown areas without absolute positioning. Empirically, TS has better trajectory tracking performance than pose-based feedback when both rely on the same underlying SLAM system.
 
