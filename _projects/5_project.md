@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Safer Gap
-description: "Safer Gap: A Gap-based Local Planner for Safe Navigation with Nonholonomic Mobile Robots"
+description: "Safer Gap: A Gap-based Local Planner for Safe Navigation with Nonholonomic Mobile Robots" <a href="https://github.com/ivaROS/SaferGap">GitHub Link</a>
 img: assets/img/research/safer_gap.png
 importance: 5
 category: research

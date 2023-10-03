@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trajectory Servoing
-description: Image-Based Trajectory Tracking Through Unknown Environments Without Absolute Positioning
+description: Image-Based Trajectory Tracking Through Unknown Environments Without Absolute Positioning. <a href="https://github.com/ivaROS/TrajectoryServoing">GitHub Link</a>
 img: assets/img/research/trajservo.png
 importance: 3
 category: research

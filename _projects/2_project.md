@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Potential Gap
-description: "Potential Gap: A Gap-Informed Reactive Policy for Safe Hierarchical Navigation"
+description: "Potential Gap: A Gap-Informed Reactive Policy for Safe Hierarchical Navigation" <a href="https://github.com/ivaROS/PotentialGap">GitHub Link</a>
 img: assets/img/research/pgap.png
 importance: 2
 category: research
