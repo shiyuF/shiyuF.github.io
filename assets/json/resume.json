@@ -5,7 +5,7 @@
     "image": "",
     "email": "",
     "phone": "",
-    "url": "https://shiyuf.github.io/",
+    "url": "https://scholar.google.com/citations?user=mgbydHoAAAAJ&hl=en",
     "summary": "",
     "location": {
       "address": "85 5th St NW",
@@ -26,7 +26,7 @@
       "area": "Robotics and Mechanical Engineering",
       "studyType": "PhD Candidate",
       "startDate": "2016-08",
-      "endDate": "Exp 2024-05",
+      "endDate": "Exp Summer 2024",
       "score": "",
       "courses": [
         "Advisor: Dr. Patricio A. Vela",
@@ -61,13 +61,13 @@
       "endDate": "Present",
       "summary": "Hierarchical Stereo Navigation with Sparse Representation. Supervised by Dr. Patricio A. Vela",
       "highlights": [
-        "Created a sparse perception space for real-time collision checking and path planning, which has better computational efficiency and scalability among different workstations and lightweight embedded devices.",
-        "Designed safety-guaranteed path planning methods for holonomic and nonholonomic dynamics involving optimal control, potential fields, and control barrier functions.",
-        "Built an image-based trajectory tracking method with VSLAM to reduce reliance on pose estimation accuracy.",
-        "Implemented a hierarchical vision-based navigation framework (GPF-BG) for safe quadrupedal navigation.",
-        "Developed multiple real-time hierarchical navigation systems containing perception, planning, and control modules for different robotic platforms: mobile robots, mobile manipulation robots, snake-like robots, and quadrupedal robots.",
-        "Benchmarked navigation performance in ROS/Gazebo simulation and real robots (Turtlebot, LoCoBot, Stretch, Unitree A1) with stereo cameras, depth cameras, and laser scanners.",
-        "Trained an explainable deep learning model to synthesize ego-centric collision-free trajectories from stereo images.",
+        "Created a sparse ego-centric perception space from stereo cameras to describe local environments and track temporal sensing information for real-time motion planning and collision checking that has five times faster computational efficiency and scalability among workstations and lightweight embedded devices.",
+        "Designed safety-guaranteed motion planning methods to achieve 0% collision rates for holonomic and nonholonomic dynamics involving model predictive control, potential fields, and control barrier functions, which improves safety performance of classical planning techniques in configuration space.",
+        "Established an image-based trajectory tracking method with VSLAM to improve trajectory tracking accuracy by 28%.",
+        "Implemented a vision-based navigation framework (GPF-BG) for quadrupedal robots to obtain 10% more success rates.",
+        "Developed real-time navigation system architectures containing perception, planning, SLAM localization, and control modules for different platforms: mobile robots, mobile manipulation robots, snake-like robots, and quadrupedal robots.",
+        "Conducted quantitative research on navigation performance in ROS/Gazebo simulation and real robots (Turtlebot, LoCoBot, Stretch, Unitree A1) with stereo cameras, depth cameras, laser scanners, and LiDAR.",
+        "Trained deep learning neural networks to intelligibly select ego-centric collision-free trajectories from stereo images, which involves machine learning and computer vision.",
         "Research to deploy reinforcement learning models for navigation and object searching in a mobile manipulation task."
       ]
     },
@@ -77,7 +77,7 @@
       "url": "",
       "startDate": "2019-08",
       "endDate": "Present",
-      "summary": "Supervise and organize 8+ undergraduate research projects on vision-based navigation with SLAM, perception, planning, control, deep learning, software and hardware design, etc."
+      "summary": "Supervised and organized 8+ undergraduate research projects on vision-based navigation with SLAM, perception, planning, teleoperation, control, deep learning, software, hardware design, etc. Offering help and support to undergraduate researchers."
     },
     {
       "name": "Seres (SF Motors), ADAS Team",
@@ -87,7 +87,7 @@
       "endDate": "2018-08",
       "summary": "Supervised by Chongyu Wang and Fan Wang",
       "highlights": [
-        "Individually implemented C++ OpenCV algorithm to achieve stop-line and traffic light detection.",
+        "Implemented C++ OpenCV algorithm to achieve stop-line and traffic light detection through classical computer vision.",
         "Contributed to deep learning traffic detection and data preparation.",
         "Deployed classical and learning-based algorithms in autonomous driving field tests.",
         "Assisted in completing camera installation, sensor calibration, and real-time image acquisition."
@@ -101,8 +101,7 @@
       "endDate": "2021-12",
       "summary": "ME 3017: System Dynamics. Supervised by Dr. Jun Ueda",
       "highlights": [
-        "Collaborated in developing course materials, homework, and exams.",
-        "Provided weekly office hours and taught some lectures."
+        "Participated in the creation of course materials, assignments, and exams while also offering guidance through office hours. Delivered portions of lectures and supported undergraduate students in addressing their academic inquiries."
       ]
     },
     {
@@ -113,19 +112,20 @@
       "endDate": "2019-08",
       "summary": "ME2110: Creative Decisions and Design. Supervised by Dr. Thomas Kurfess and Dr. Christopher Saldana",
       "highlights": [
-        "Instructor for mechatronics and machining training. Conduct machining open labs.",
-        "Served as a head TA for one semester to arrange TA training, open labs, and the final competition."
+        "Worked in collaboration to create course materials, assignments, and exams while offering office hours.",
+        "Instructed on mechatronics and machining training while overseeing machining open labs.",
+        "Acted as the lead TA for a semester, organizing TA training and open labs, and coordinating the final competition."
       ]
     },
     {
       "name": "University of California, Berkeley, MPC Lab",
-      "position": "Graduate Research Intern",
+      "position": "Graduate Researcher",
       "url": "",
       "startDate": "2016-08",
       "endDate": "2019-08",
       "summary": "Fault Tolerant Control in Autonomous Driving, Perception. Advised by Dr. Francesco Borrelli",
       "highlights": [
-        "Built the main sensor data association algorithm in Python with an external optimization solver.",
+        "Developed the main sensor data association algorithm in Python with an external optimization solver.",
         "Tested the sensor association algorithm in simulation and on a real autonomous driving car."
       ]
     }
@@ -136,7 +136,7 @@
   "publications": [],
   "skills": [
     {
-      "name": "Perception, Path Planning, Control, Robot Safety, Obstacle Avoidance, Real-time System, C/C++, Python, MATLAB, LabVIEW, OpenCV, ROS, Gazebo, CasADi, PCL, Linux, GitHub, Jira, PyTorch, TensorFlow, Weka, Solidwords"
+      "name": "perception, sampling and optimization based motion planning, collision avoidance, linear and nonlinear controller design, robot localization, dynamics modeling, optimization, teleguidance, robot safety, real-time system, C/C++, Python, MATLAB, LabVIEW, ROS, Gazebo, Eigen, PyTorch, TensorFlow, OpenCV, PCL, CasADi, ACADOS, Turtlebot, PyRobot/LoCoBot, Stretch, Unitree A1, Kinect Depth Camera, RealSense D435i, Linux, GitHub, Jira, Weka, SolidWorks"
     }
   ],
   "languages": [
