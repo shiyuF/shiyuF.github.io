@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate at Georgia Institute of Technology. Expected to graduate in Summer 2024. <b>Actively finding full-time jobs in robotics researcher and robotics engineer.</b>
+subtitle: Ph.D. Candidate at Georgia Institute of Technology. Expected to graduate in December 2024. <b>Actively finding full-time jobs in robotics researcher and robotics engineer.</b>
 
 profile:
   align: right
